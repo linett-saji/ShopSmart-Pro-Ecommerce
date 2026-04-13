@@ -38,10 +38,8 @@ A dedicated administrative layer protected by JWT to manage the global inventory
 * **Secure Registration:** A professional interface for authorized personnel.
 * **Protected Login:** Encrypted authentication flow to secure the Inventory Manager.
 
-<img width="1920" height="1020" alt="Screenshot 2026-04-13 164957" src="https://github.com/user-attachments/assets/559979a3-2bff-4379-8ff5-49d241ec1c45" />
-
-<img width="1920" height="1020" alt="Screenshot 2026-04-13 165008" src="https://github.com/user-attachments/assets/0dfff17c-a748-4113-828a-cacdeca3a0bd" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 170838" src="https://github.com/user-attachments/assets/00799801-efeb-4ed3-b83e-16ca0c7d4a7e" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 171321" src="https://github.com/user-attachments/assets/408774c0-996d-4437-b25f-440a62efbe5d" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-13 164748" src="https://github.com/user-attachments/assets/f9161707-cce4-459d-889b-d3d373dd0e6a" />
 
 
