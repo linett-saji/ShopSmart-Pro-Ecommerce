@@ -18,6 +18,7 @@ An advanced, full-stack electronics marketplace engineered with the **MERN stack
 
 ## ✨ Core Features & Screenshots
 
+
 ### 💻 1. Home Page, Search & AI Recommendations
 
 The landing page features a high-fidelity catalog with dynamic search and a custom-built recommendation system.
@@ -38,9 +39,9 @@ A dedicated administrative layer protected by JWT to manage the global inventory
 * **Secure Registration:** A professional interface for authorized personnel.
 * **Protected Login:** Encrypted authentication flow to secure the Inventory Manager.
 
-<img width="1920" height="1080" alt="Screenshot 2026-04-13 170838" src="https://github.com/user-attachments/assets/00799801-efeb-4ed3-b83e-16ca0c7d4a7e" />
-<img width="1920" height="1080" alt="Screenshot 2026-04-13 171321" src="https://github.com/user-attachments/assets/408774c0-996d-4437-b25f-440a62efbe5d" />
-<img width="1920" height="1080" alt="Screenshot 2026-04-13 164748" src="https://github.com/user-attachments/assets/f9161707-cce4-459d-889b-d3d373dd0e6a" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 171618" src="https://github.com/user-attachments/assets/eeabb2b5-a593-4052-8612-570d27e7e77c" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 171728" src="https://github.com/user-attachments/assets/2db0bb65-0b2e-44a4-905c-3c7a579110ea" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 171736" src="https://github.com/user-attachments/assets/ba9492af-a555-4c08-9dbf-b633d9f58d69" />
 
 
 ### 💳 3. Cart Management & Payment Pipeline
