@@ -2,7 +2,6 @@
 
 An advanced, full-stack electronics marketplace engineered with the **MERN stack**. ShopSmart Pro leverages intelligent category filtering and an automated checkout pipeline to deliver a high-end, responsive shopping experience.
 
----
 
 ### 🛠️ Technical Stack
 
@@ -14,56 +13,45 @@ An advanced, full-stack electronics marketplace engineered with the **MERN stack
 
 * **Security:** JWT (JSON Web Tokens) for protected Admin and User sessions
 
-* **Intelligence:** Category-based AI Recommendation Engine for personalized discovery
+* **Intelligence:** Category-based AI Recommendation Engine
 
----
 
 ## ✨ Core Features & Screenshots
 
-### 💻 1. Premium Product Catalog & AI Recommendations
+### 💻 1. Home Page, Search & AI Recommendations
 
 The landing page features a high-fidelity catalog with dynamic search and a custom-built recommendation system.
 
-* **Smart Picks:** An AI-driven "Recommended For You" section that surface products based on trending categories.
-* **Dynamic Filtering:** Instant filtering by category (Laptops, Phones, Gaming) and real-time search logic for a seamless UX.
+* **Smart Picks:** An AI-driven "Recommended For You" section based on trending categories.
+* **Dynamic Filtering:** Instant filtering and real-time search logic for a seamless UX.
 
-<img width="1920" height="1080" alt="Catalog View" src="https://github.com/user-attachments/assets/71a25785-5b4d-44a8-9d66-5e5814524817" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 164709" src="https://github.com/user-attachments/assets/03630b26-0cc3-4ddb-853f-000104a39a78" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 164719" src="https://github.com/user-attachments/assets/7e4f7da2-7958-4ce5-98e2-84d9d5d27b82" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 164727" src="https://github.com/user-attachments/assets/5c1eca16-690c-43cf-ac88-83091f2cc172" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 164740" src="https://github.com/user-attachments/assets/d2a80f14-1a4c-4465-9b9a-70a714cc45c4" />
 
-<img width="1920" height="1080" alt="AI Recommendations" src="https://github.com/user-attachments/assets/7724391b-607e-46cf-8472-04e40248430b" />
 
----
+### 🔐 2. Admin Identity Management (Register & Login)
 
-### 🛍️ 2. Dynamic Shopping Cart & Checkout Inventory
+A dedicated administrative layer protected by JWT to manage the global inventory and platform security.
 
-The cart management system features real-time state synchronization and automated price calculations.
+* **Secure Registration:** A professional interface for authorized personnel.
+* **Protected Login:** Encrypted authentication flow to secure the Inventory Manager.
 
-* **Live Data Sync:** High-resolution product previews and metadata (titles, quantities) now sync perfectly across the session.
-* **Automated Accounting:** Integrated logic to calculate individual item totals and a Grand Total for the final order.
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 164957" src="https://github.com/user-attachments/assets/559979a3-2bff-4379-8ff5-49d241ec1c45" />
 
-<img width="1920" height="1080" alt="Fixed Cart View" src="https://github.com/user-attachments/assets/81c810d6-11f2-45e0-994c-283407e3240e" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 165008" src="https://github.com/user-attachments/assets/0dfff17c-a748-4113-828a-cacdeca3a0bd" />
 
----
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 164748" src="https://github.com/user-attachments/assets/f9161707-cce4-459d-889b-d3d373dd0e6a" />
 
-### 💳 3. Secure Multi-Step Payment Pipeline
 
-A streamlined checkout flow that guides users from inventory review to secure payment confirmation.
+### 💳 3. Cart Management & Payment Pipeline
 
-* **Encrypted Payment Simulation:** A clean, Stripe-inspired UI for entering card details with real-time amount validation.
-* **Transaction Finalization:** Backend logic to process the final amount and confirm order status.
+A streamlined checkout flow that guides users from inventory review to secure transaction confirmation.
 
-<img width="1920" height="1080" alt="Payment Page" src="https://github.com/user-attachments/assets/2689c894-3995-464a-ae97-9e76da749658" />
+* **Dynamic Inventory Check:** A high-fidelity cart view that tracks quantities and real-time totals.
+* **Encrypted Payment Simulation:** A clean, Stripe-inspired UI for entering card details.
 
----
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 164754" src="https://github.com/user-attachments/assets/9fb53f03-898a-48ae-96cd-222ba89c51d4" />
 
-### 🔐 4. Admin Command Center (Inventory Management)
-
-A dedicated administrative layer protected by JWT to manage global inventory and platform security.
-
-* **Inventory Manager:** Direct interface for authorized Admins to push new products to the live catalog with Multer image uploads.
-* **Admin Auth System:** Robust "Create Admin" and "Admin Login" interfaces to ensure platform integrity.
-
-<img width="1920" height="1080" alt="Admin Register" src="https://github.com/user-attachments/assets/d4e9d77e-55e1-4f9e-a89c-457317730e6a" />
-
-<img width="1920" height="1080" alt="Admin Login" src="https://github.com/user-attachments/assets/b3469854-3e9a-41f8-98e3-0c1735d4681f" />
-
-<img width="1920" height="1080" alt="Inventory Form" src="https://github.com/user-attachments/assets/56fbe36c-946d-473d-815a-4952086e3f05" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 164800" src="https://github.com/user-attachments/assets/289a1fee-2c07-493f-bb23-8624046a9daf" />
